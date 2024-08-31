@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="de.innot.avreclipse.toolchain.winavr.base.1068905684">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="de.innot.avreclipse.toolchain.winavr.base.1068905684" moduleId="org.eclipse.cdt.core.settings" name="Default">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.MakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration buildProperties="" id="de.innot.avreclipse.toolchain.winavr.base.1068905684" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="de.innot.avreclipse.toolchain.winavr.base.1068905684.947110690" name="/" resourcePath="">
+						<toolChain id="de.innot.avreclipse.toolchain.winavr.base.246008183" name="AVR-GCC Toolchain" superClass="de.innot.avreclipse.toolchain.winavr.base">
+							<option id="de.innot.avreclipse.toolchain.options.toolchain.objcopy.flash.1696743189" name="Generate HEX file for Flash memory" superClass="de.innot.avreclipse.toolchain.options.toolchain.objcopy.flash"/>
+							<option id="de.innot.avreclipse.toolchain.options.toolchain.objcopy.eeprom.2016631478" name="Generate HEX file for EEPROM" superClass="de.innot.avreclipse.toolchain.options.toolchain.objcopy.eeprom"/>
+							<option id="de.innot.avreclipse.toolchain.options.toolchain.objdump.1977087943" name="Generate Extended Listing (Source + generated Assembler)" superClass="de.innot.avreclipse.toolchain.options.toolchain.objdump"/>
+							<option id="de.innot.avreclipse.toolchain.options.toolchain.size.18857806" name="Print Size" superClass="de.innot.avreclipse.toolchain.options.toolchain.size"/>
+							<option id="de.innot.avreclipse.toolchain.options.toolchain.avrdude.1805704663" name="AVRDude" superClass="de.innot.avreclipse.toolchain.options.toolchain.avrdude"/>
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="de.innot.avreclipse.targetplatform.avr.1289625827" name="AVR Cross-Target" osList="all" superClass="de.innot.avreclipse.targetplatform.avr"/>
+							<builder id="de.innot.avreclipse.target.builder.winavr.base.1852217319" managedBuildOn="false" name="AVR GNU Make Builder.Default" superClass="de.innot.avreclipse.target.builder.winavr.base"/>
+							<tool id="de.innot.avreclipse.tool.assembler.winavr.base.476272912" name="AVR Assembler" superClass="de.innot.avreclipse.tool.assembler.winavr.base"/>
+							<tool id="de.innot.avreclipse.tool.compiler.winavr.base.1430178269" name="AVR Compiler" superClass="de.innot.avreclipse.tool.compiler.winavr.base"/>
+							<tool id="de.innot.avreclipse.tool.cppcompiler.base.1756824391" name="AVR C++ Compiler" superClass="de.innot.avreclipse.tool.cppcompiler.base"/>
+							<tool id="de.innot.avreclipse.tool.linker.winavr.base.1130366932" name="AVR C Linker" superClass="de.innot.avreclipse.tool.linker.winavr.base"/>
+							<tool id="de.innot.avreclipse.tool.cpplinker.base.208329951" name="AVR C++ Linker" superClass="de.innot.avreclipse.tool.cpplinker.base"/>
+							<tool id="de.innot.avreclipse.tool.archiver.winavr.base.1680618836" name="AVR Archiver" superClass="de.innot.avreclipse.tool.archiver.winavr.base"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="Timer1_Fast_PWM.null.161715488" name="Timer1_Fast_PWM"/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>
